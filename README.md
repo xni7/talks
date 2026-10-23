@@ -2,9 +2,9 @@
 
 Slides from talks by Xiao Ni.
 
-| Talk | Event | Slides |
-|---|---|---|
-| Totality of Evidence in Minutes: Interactive Apps for GST Power and Publication-Ready Forest Plot | R/Pharma 2026 | [View slides](https://xni7.github.io/talks/rpharma2026-gst/) |
+| Talk | Event | Slides | Video |
+|---|---|---|---|
+| Totality of Evidence in Minutes: Interactive Apps for GST Power and Publication-Ready Forest Plot | R/Pharma 2026 | [View slides](https://xni7.github.io/talks/rpharma2026-gst/) | [Watch (9.5 min)](https://www.youtube.com/watch?v=UmHAQsYu50o) |
 
 ## R/Pharma 2026 — {gst}
 
